@@ -2,7 +2,7 @@ Standard process injection using syscalls
 
 Explained: 
            Process Injection
-Instead of using win32 or ntapi this program skips those and uses syscalls instead, this might be useful for bypassing EDR and AV solutions. As well as this it utilizes AES 256 decryption during runtime so that the shellcode isnt caught in memory as easily. If you are interesed in learning this technique or similar ones heres the sources I read from to get the picture: https://www.crow.rip, https://www.solomonsklash.io/syscalls-for-shellcode-injection.html, https://medium.com/@lsecqt/basic-process-injection-with-c-e6d4d2fa3b4a (Great work!) 
+Instead of using win32 or ntapi this program skips those and uses syscalls instead, this might be useful for bypassing EDR and AV solutions. As well as this it utilizes AES 256 decryption during runtime so that the shellcode isnt caught in memory as easily. If you are interesed in learning this technique or similar ones heres the sources I read from to get the idea of how any of this works: https://www.crow.rip, https://www.solomonsklash.io/syscalls-for-shellcode-injection.html, https://medium.com/@lsecqt/basic-process-injection-with-c-e6d4d2fa3b4a (Great work!) 
 
 In order to compile, first object files from the syscalls and functions files. 
 You can do this with verious compileres, I used MASM for the assembly and CL for the c file. 
