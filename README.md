@@ -9,5 +9,5 @@ Techniques I have done so far:<br>
   🔸Win32 injection<br>
   🔸Ntapi injection<br>
   
-As I learn I will post my progress, expect the list to eventually increase... 🧡
+As I learn I will post my progress, expect the list to eventually increase... 🧡<br>
 Most of my programs have to do with C, python or assembly so I highly recommend you learn those if you are confused.
