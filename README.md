@@ -1,5 +1,5 @@
 
 ## [⚠️] WELCOME TO PROCESS INJECTION
 
-<img width="30%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDQM7s4B1DYBwSLcyyYZ9LUkvWPj7oUhc1mw&s"> 
+<img width="30%" src="https://static.wikia.nocookie.net/hollowknight/images/5/5c/Char_shade.png/revision/latest/scale-to-width-down/250?cb=20190405191007"> 
 
