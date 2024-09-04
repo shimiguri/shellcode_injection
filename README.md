@@ -11,3 +11,5 @@ Techniques I have done so far:<br>
   
 As I learn I will post my progress, expect the list to eventually increase... 🧡<br>
 Most of my programs have to do with C, python or assembly so I highly recommend you learn those if you are confused. (Please dont mind the poorly written code, I am still very much an amature learning from those better then me)
+
+(🟠) That being said, if you notice something poorly done (probably hard not to) please go ahead and contact me or issue a request. I have a lot to learn!
