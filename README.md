@@ -10,4 +10,4 @@ Techniques I have done so far:<br>
   🔸Ntapi injection<br>
   
 As I learn I will post my progress, expect the list to eventually increase... 🧡<br>
-Most of my programs have to do with C, python or assembly so I highly recommend you learn those if you are confused.
+Most of my programs have to do with C, python or assembly so I highly recommend you learn those if you are confused. (Please dont mind the poorly written code, I am still very much an amature learning from those better then me)
