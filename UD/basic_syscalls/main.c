@@ -252,7 +252,7 @@ int main(void){
     //----[CREATES A EXECUTION THREAD]-----
     STATUS = NtCreateThreadEx(&hThread, THREAD_ALL_ACCESS, &OA, hProcess, rBuffer, NULL, 0, 0, 0, 0, NULL);
 
-    if (STATUS != STATUS_SUCCESS){if (debug == true){NEGATIVE("NtCreateThreadEx[%zu::BYTES] -> Error[0x%lx]", bytes, STATUS);}} else {
+    if (STATUS != STATUS_SUCCESS){if (debug == true){NEGATIVE("NtCreateThreadEx[%zu::BYTES] -> Error[0x%lx]", bytes, STATUS);} return EXIT_FAILURE;} else {
             if (debug == true){POSITIVE("NtCreateThreadEx[(0x%p), (0x%p)] -> [%p]", hProcess, rBuffer, hThread);}}
     
     WaitForSingleObject(hThread, INFINITE);
