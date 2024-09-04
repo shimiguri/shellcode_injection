@@ -5,7 +5,7 @@
 
 **Here I will post about verious techniques of process injection!**
 Techniques I have done so far:
-  🔸Direct syscall injection
-  🔸Win32 injection
-  🔸Ntapi injection
+  🔸Direct syscall injection<br>
+  🔸Win32 injection<br>
+  🔸Ntapi injection<br>
   
